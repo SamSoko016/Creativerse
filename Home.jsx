@@ -1,0 +1,1 @@
+export default function Home({ toggleDark }) { return <div><h1>Home</h1><button onClick={toggleDark}>Toggle Dark Mode</button></div>; }
